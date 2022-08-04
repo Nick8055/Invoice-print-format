@@ -31,7 +31,7 @@ var roman;
 if(DD == 1 || DD == 21 || DD == 31){
   roman = 'st';
 }
-else if(DD == 2){
+else if(DD == 2 || DD == 22){
   roman = 'nd';
 }
 else if(DD == 3){
