@@ -34,7 +34,7 @@ if(DD == 1 || DD == 21 || DD == 31){
 else if(DD == 2 || DD == 22){
   roman = 'nd';
 }
-else if(DD == 3){
+else if(DD == 3 || DD == 23){
   roman = 'rd';
 }
 else{
